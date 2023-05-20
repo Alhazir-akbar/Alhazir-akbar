@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFiYzNlODgzZDQ0MGEzNzc4YWQwMDRjMzY1NTU1MWE3N2UxMGE3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/MYI6NK4JOGpOzOriEg/giphy.gif)]()
+
 <h1 align="center">Hi 👋, I'm Alhazirakbar</h1>
 <h3 align="center">Driving Quality for Exceptional User Experience</h3>
 
