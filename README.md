@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alhazirakbar</h1>
 <h3 align="center">Driving Quality for Exceptional User Experience</h3>
 
- <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxOGQxY2Q4OTIwYTczNWU5ZWQ4ZDg0YTgyZDYzMzhiNGZiN2U5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LmxS3CI4Pqk7aPviYO/giphy-downsized.gif"/> 
+ <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUzeXJmejFkMXlkY3Zza3JlamV3cDJtMGpsYm9tM2x5bmJwaWd1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"/> 
 
 - 🌱 I’m currently learning **Java**
 
