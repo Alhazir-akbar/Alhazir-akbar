@@ -4,7 +4,7 @@
 
  <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUzeXJmejFkMXlkY3Zza3JlamV3cDJtMGpsYm9tM2x5bmJwaWd1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"/> 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://alhazirakbar.netlify.app/](https://alhazirakbar.netlify.app/)
 
